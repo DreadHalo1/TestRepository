@@ -1,0 +1,22 @@
+C:\Users\nikit\OneDrive\Рабочий стол\C#\TestForm\TestForm\bin\Debug\TestForm.exe.config
+C:\Users\nikit\OneDrive\Рабочий стол\C#\TestForm\TestForm\bin\Debug\TestForm.exe
+C:\Users\nikit\OneDrive\Рабочий стол\C#\TestForm\TestForm\bin\Debug\TestForm.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\C#\TestForm\TestForm\obj\Debug\TestForm.csproj.AssemblyReference.cache
+C:\Users\nikit\OneDrive\Рабочий стол\C#\TestForm\TestForm\obj\Debug\TestForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikit\OneDrive\Рабочий стол\C#\TestForm\TestForm\obj\Debug\TestForm.Properties.Resources.resources
+C:\Users\nikit\OneDrive\Рабочий стол\C#\TestForm\TestForm\obj\Debug\TestForm.csproj.GenerateResource.cache
+C:\Users\nikit\OneDrive\Рабочий стол\C#\TestForm\TestForm\obj\Debug\TestForm.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\C#\TestForm\TestForm\obj\Debug\TestForm.exe
+C:\Users\nikit\OneDrive\Рабочий стол\C#\TestForm\TestForm\obj\Debug\TestForm.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\C#\TestForm\TestForm\obj\Debug\TestForm.Form1.resources
+C:\Users\nikit\Desktop\C#\TestForm\TestForm\bin\Debug\TestForm.exe.config
+C:\Users\nikit\Desktop\C#\TestForm\TestForm\bin\Debug\TestForm.exe
+C:\Users\nikit\Desktop\C#\TestForm\TestForm\bin\Debug\TestForm.pdb
+C:\Users\nikit\Desktop\C#\TestForm\TestForm\obj\Debug\TestForm.csproj.AssemblyReference.cache
+C:\Users\nikit\Desktop\C#\TestForm\TestForm\obj\Debug\TestForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikit\Desktop\C#\TestForm\TestForm\obj\Debug\TestForm.Form1.resources
+C:\Users\nikit\Desktop\C#\TestForm\TestForm\obj\Debug\TestForm.Properties.Resources.resources
+C:\Users\nikit\Desktop\C#\TestForm\TestForm\obj\Debug\TestForm.csproj.GenerateResource.cache
+C:\Users\nikit\Desktop\C#\TestForm\TestForm\obj\Debug\TestForm.csproj.CoreCompileInputs.cache
+C:\Users\nikit\Desktop\C#\TestForm\TestForm\obj\Debug\TestForm.exe
+C:\Users\nikit\Desktop\C#\TestForm\TestForm\obj\Debug\TestForm.pdb
